@@ -1,0 +1,319 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+
+Items: {
+	DeepRed: {
+		DisplayName: 深红
+		Tooltip: 
+			'''
+			连续劈砍会强化刀刃
+			击中敌人引发爆炸
+			[c/ff4048:“它被染上深红 枯了又荣”]
+			'''
+	}
+
+	DragonfireAmberPauldron: {
+		DisplayName: 龙火涎香肩甲
+		Tooltip:
+			'''
+			冲刺速度提升32%，间隔减少33%
+			撞击中敌人后会获得强化
+			冲刺期间获得10%伤害减免
+			你的冲刺会用龙焰和深渊水压撕碎附近的敌人
+			连续冲刺会重新引爆上一次的路径     
+			'''
+	}
+
+	WeightedLeatherBall: {
+		DisplayName: 加重皮革球
+		Tooltip:
+			'''
+			增加10%鞭子范围
+			鞭子伤害变为1.5倍
+			但会降低10%的召唤物伤害
+			'''
+	}
+
+	WhipHookBlade: {
+		DisplayName: 鞭钩刃
+		Tooltip:
+			'''
+			增加10%召唤伤害
+			增加10%鞭子伤害
+			鞭子攻击会对敌人造成切割和流血减益
+			'''
+	}
+
+	TheAngerOfTheFarmer: {
+		DisplayName: 奴役之手
+		Tooltip:
+			'''
+			增加10%召唤伤害和鞭子范围
+			以及16鞭子攻速
+			鞭子伤害变为1.6倍
+			但会降低10%召唤物伤害
+			鞭子攻击会对敌人造成切割和流血减益
+			'''
+	}
+
+	ManaBonsai: {
+		DisplayName: 魔力盆景
+		Tooltip:
+			'''
+			魔力消耗降低8%
+			增加50点最大魔力值
+			需要时自动使用魔力药水
+			基于最大魔力值增加暴击率
+			“一个巫师的盆景就如同他的魔法水平”
+			'''
+	}
+
+	Accessories: {
+		EtherealTalismanPlus: {
+			DisplayName: 空灵护符+
+			Tooltip:
+				'''
+				增加15%魔法伤害、5%魔法暴击率并降低10%魔力消耗
+				增加200点最大魔力值
+				扩大魔力星的拾取范围
+				若打开饰品可见性，你会在需要时自动饮用魔力药水
+				基于最大魔力值增加暴击率
+				'''
+		}
+
+		Wings: {
+			WovenWings: {
+				// DisplayName: Woven Wings
+				// Tooltip: ""
+			}
+		}
+	}
+
+	ShimuPet: {
+		DisplayName: 生命流光
+		Tooltip:
+			'''
+			看起来你现在必须好好照顾这位小女孩
+			[c/5e8e4d:- 专属物品 -]
+			'''
+	}
+
+	JingziPet: {
+		DisplayName: 四叶草发饰
+		Tooltip: "[c/d0f9bd:- 专属物品 -]"
+	}
+
+	WestLakeVinegarFish: {
+		DisplayName: 西湖醋鱼
+		Tooltip:
+			'''
+			杭州硕果仅存的美食之一（应该）
+			[c/edbfbd:- 专属物品 -]
+			'''
+	}
+
+	TerminalSound: {
+		DisplayName: 终末之音
+		Tooltip:
+			'''
+			[c/581586:“用尽全力发出的声音]
+			[c/581586:自然也有着穿透种种阻碍的力量”]
+			[c/5e5266:- 专属物品 -]
+			'''
+	}
+
+	FangbaiWing: {
+		DisplayName: 方白之翼
+		Tooltip:
+			'''
+			水平飞行速度：4.5
+			加速倍率：1.2
+			还行的垂直飞行速度
+			飞行时间：60
+			“方白的羽毛做成的翅膀”
+			[c/ffffff:- 专属物品 -]
+			'''
+	}
+
+	Tofu: {
+		DisplayName: 豆腐
+		Tooltip: "[c/ffffff:- 专属物品 -]"
+	}
+
+	WovenWings: {
+		DisplayName: 编织羽翼
+		Tooltip:
+			'''
+			编织羽翼
+			水平飞行速度：9
+			加速倍率：2.8
+			绝佳的垂直飞行速度
+			飞行时间：240
+			使你免疫影响飞行的减益
+			[c/581586:“但我们找不到合适的翅膀”]
+			[c/c9c9c9:“于是我们编织了自己的翅膀”]
+			[c/581586:- 开发者物品 -]
+			'''
+	}
+
+	MoonSilkSatin: {
+		// DisplayName: Moon Silk Satin
+		// Tooltip: ""
+	}
+
+	Skyrend: {
+		DisplayName: 苍穹
+		Tooltip:
+			'''
+			召唤8束风暴从天而降
+			[c/b3d6da:“诗歌与远方相拥 风眷恋苍穹”]
+			'''
+	}
+
+	BombEarthDay: {
+		DisplayName: 地球爆炸日
+		Tooltip:
+			'''
+			扔出一颗威力巨大的炸弹
+			潜伏攻击会炸毁泰拉瑞亚
+			（不要在Get fixed boi中尝试）
+			“平凡如我的行星将会在明天死去”
+			'''
+	}
+
+	FragmentTravelAdvertisement: {
+		DisplayName: 吉光片羽：旅游广告
+		Tooltip: 寄宿其上的低语流入你的耳中……
+	}
+
+	StarWish: {
+		DisplayName: 星愿
+		Tooltip:
+			'''
+			左键发射星星，星星停滞数秒后追踪敌人
+			右键消耗500魔力值在鼠标处生成一个黑洞
+			黑洞会吸引敌人并在8秒后爆炸
+			再次按右键会瞬移到黑洞位置并提前引爆黑洞
+			[c/FFFF00:“将这美好的瞬间化作永远]
+			[c/FFFF00:  我的 世界全由你谱写”]
+			'''
+	}
+
+	FraMoldyPaper: {
+		DisplayName: 吉光片羽：发霉的论文
+		Tooltip: 寄宿其上的低语流入你的耳中……
+	}
+
+	TheStoryOfTheApocalypse: {
+		DisplayName: 世界终了物语
+		Tooltip:
+			'''
+			左键轻挥镰刀，发射星星和追踪镰刀
+			右键
+			[c/8822FF:“可我难以摒弃潘多拉盒]
+			[c/8822FF: 直到雪色无法遮掩灾厄”]
+			'''
+	}
+
+	FraArmsOrder: {
+		DisplayName: 吉光片羽：武器订单
+		Tooltip: 寄宿其上的低语流入你的耳中……
+	}
+
+	FraBloodGodBattleRoar: {
+		DisplayName: 吉光片羽：血神战吼
+		Tooltip: 寄宿其上的低语流入你的耳中……
+	}
+
+	AstrumTelescope: {
+		DisplayName: 群星望远镜
+		Tooltip:
+			'''
+			增加10%魔法伤害
+			[c/F0CC3E:每消耗一颗魔力星星，发射一颗星星]
+			      [c/93B5CF: - 专属物品 -]
+			'''
+	}
+
+	CrazySilverMoon: {
+		DisplayName: 癫狂银月
+		Tooltip:
+			'''
+			在月亮升起后使用以召唤月女神
+			在日食时狂暴
+			不消耗
+			'''
+	}
+
+	DragonSlayer: {
+		// DisplayName: Dragon Slayer
+		// Tooltip: ""
+	}
+}
+
+Buffs: {
+	BlazingDash: {
+		DisplayName: 炽热冲锋
+		Description: 巨龙的火焰激起了你冲锋的欲望
+	}
+
+	Cutting: {
+		// DisplayName: Cutting
+		// Description: Mods.Calamitytwinklefragment.Buffs.Cutting.Description
+	}
+
+	ShimuPetBuff: {
+		DisplayName: 生命流光
+		Description: 请照顾好她
+	}
+
+	JingziPetBuff: {
+		DisplayName: 四叶草发饰
+		Description: 她可能有点活泼
+	}
+
+	LunaLockedDebuff: {
+		DisplayName: 锁定
+		Description: 月女神感应到了你的位置，祂的攻击将更加致命
+	}
+}
+
+Projectiles: {
+	AbyssalCrushWave.DisplayName: 深渊水浪
+	DragonfireExplosion.DisplayName: 龙焰爆炸
+	ShimuPetProjectile.DisplayName: 流光
+	JingziPetProjectile.DisplayName: 镜子
+	TerminalSoundWave.DisplayName: 终末之音
+	TerminalSoundStar.DisplayName: 终末星声
+	DeepRedExplosion.DisplayName: 深红爆炸
+	DeepRedFragment.DisplayName: 深红碎片
+	BombEarthDayProjectile.DisplayName: 地球爆炸日
+	PinkFish.DisplayName: 潋妤
+	StarWishBlackHole.DisplayName: 黑洞
+	WishStar.DisplayName: 星星之愿
+	EtherOrb.DisplayName: 永夜球
+	// ApocalypseRolling.DisplayName: Apocalypse Rolling
+	MoonShadowWeb.DisplayName: 月影网
+	LunaDevouringProjectile.DisplayName: 月蚀
+	LunaSilkProj.DisplayName: 月蛛丝
+	SilverLunaPlate.DisplayName: 银月盘
+}
+
+Calamitytwinklefragment/Content/Items/Accessories/Mana/StarFlameStone: {
+	StarFlameStone: {
+		DisplayName: 星炎石
+		Tooltip:
+			'''
+			饮用魔力药水时会使你获得魔力烧蚀减益而非魔力疾病减益
+			魔力烧蚀会持续对你造成伤害，伤害与减益的强度相关
+			玩家处于魔力烧蚀时魔法伤害变为1.2倍，受到伤害增加
+			“如星星般燃烧！”
+			'''
+	}
+}
+
+NPCs: {
+	AuricSlime.DisplayName: 圣金源史莱姆
+	AbyssPyreSlime.DisplayName: 深渊热泉史莱姆
+	LunaGoddessLunatica.DisplayName: 月女神 露娜蒂卡
+}
