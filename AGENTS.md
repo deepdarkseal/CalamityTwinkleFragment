@@ -11,7 +11,7 @@
 |---|---|
 | 模组名 | 灾厄：吉光片羽（Calamity: Twinkle Fragment） |
 | 内部名 / 命名空间 | `Calamitytwinklefragment` |
-| 作者 | 白海豹 |
+| 制作人员 | 会咬人的白海豹、OuO、盐巴yan、DeepSeek |
 | 当前版本 | 0.1.2 |
 | 依赖 | tModLoader 1.4.4（.NET 8）、Calamity Mod（`modReferences = CalamityMod`，`loadAfter = CalamityMod`） |
 | 源码根 | `Calamitytwinklefragment/`（`Content/`、`CTFplayer/`、`System/`、`Localization/`、`Assets/`、`ExtraTextures/`） |
