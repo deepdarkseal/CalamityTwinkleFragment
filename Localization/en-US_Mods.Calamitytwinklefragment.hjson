@@ -1,0 +1,355 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+
+Items: {
+	DeepRed: {
+		DisplayName: Deep Red
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	DragonfireAmberPauldron: {
+		DisplayName: Dragonfire Amber Pauldron
+		Tooltip: ""
+	}
+
+	WeightedLeatherBall: {
+		DisplayName: Weighted Leather Ball
+		Tooltip: ""
+	}
+
+	WhipHookBlade: {
+		DisplayName: Whip Hook Blade
+		Tooltip: ""
+	}
+
+	TheAngerOfTheFarmer: {
+		DisplayName: The Anger Of The Farmer
+		Tooltip: ""
+	}
+
+	ManaBonsai: {
+		DisplayName: Mana Bonsai
+		Tooltip: ""
+	}
+
+	Accessories: {
+		EtherealTalismanPlus: {
+			DisplayName: Ethereal Talisman Plus
+			Tooltip: ""
+		}
+
+		Wings: {
+			WovenWings: {
+				DisplayName: Woven Wings
+				Tooltip: ""
+			}
+		}
+	}
+
+	ShimuPet: {
+		DisplayName: Shimu Pet
+		Tooltip: ""
+	}
+
+	JingziPet: {
+		DisplayName: Jingzi Pet
+		Tooltip: ""
+	}
+
+	WestLakeVinegarFish: {
+		DisplayName: West Lake Vinegar Fish
+		Tooltip: ""
+	}
+
+	TerminalSound: {
+		DisplayName: Terminal Sound
+		Tooltip: ""
+	}
+
+	FangbaiWing: {
+		DisplayName: Fangbai Wing
+		Tooltip: ""
+	}
+
+	Tofu: {
+		DisplayName: Tofu
+		Tooltip: ""
+	}
+
+	WovenWings: {
+		DisplayName: Woven Wings
+		Tooltip: ""
+	}
+
+	MoonSilkSatin: {
+		DisplayName: Moon Silk Satin
+		Tooltip: ""
+	}
+
+	Skyrend: {
+		DisplayName: Skyrend
+		Tooltip: ""
+	}
+
+	BombEarthDay: {
+		DisplayName: Bomb Earth Day
+		Tooltip: ""
+	}
+
+	FragmentTravelAdvertisement: {
+		DisplayName: Fragment Travel Advertisement
+		Tooltip: ""
+	}
+
+	StarWish: {
+		DisplayName: Star Wish
+		Tooltip: ""
+	}
+
+	FraMoldyPaper: {
+		DisplayName: Fra Moldy Paper
+		Tooltip: ""
+	}
+
+	TheStoryOfTheApocalypse: {
+		DisplayName: The Story Of The Apocalypse
+		Tooltip: ""
+	}
+
+	FraArmsOrder: {
+		DisplayName: Fra Arms Order
+		Tooltip: ""
+	}
+
+	FraBloodGodBattleRoar: {
+		DisplayName: Fra Blood God Battle Roar
+		Tooltip: ""
+	}
+
+	AstrumTelescope: {
+		DisplayName: Astrum Telescope
+		Tooltip: ""
+	}
+
+	CrazySilverMoon: {
+		DisplayName: Crazy Silver Moon
+		Tooltip: ""
+	}
+
+	DragonSlayer: {
+		DisplayName: Dragon Slayer
+		Tooltip: ""
+	}
+
+	FinalPray: {
+		DisplayName: Final Pray
+		Tooltip: ""
+	}
+
+	EtherealTalismanPlus: {
+		DisplayName: Ethereal Talisman Plus
+		Tooltip: ""
+	}
+
+	StardustFaling: {
+		DisplayName: Stardust Faling
+		Tooltip: ""
+	}
+
+	LicenseYan: {
+		DisplayName: Unstable Yan Miao License
+		Tooltip:
+			'''
+			Summons a Yan Miao to fight alongside you
+			Below half health, Yan Miao clings to your head and heals you
+			Taking damage restores health based on lost adrenaline
+			[c/008611:- Developer Item -]
+			'''
+	}
+
+	AetherialDream: {
+		DisplayName: Aetherial Dream
+		Tooltip: ""
+	}
+
+	MagnetiteDice: {
+		DisplayName: Magnetite Dice
+		Tooltip: ""
+	}
+
+	MoonlightGreatsword: {
+		DisplayName: Moonlight Greatsword
+		Tooltip:
+			'''
+			Left click: three-hit greatsword combo
+			Right click: spend 80 mana to imbue the blade with moonlight for 45 seconds
+			While imbued, left clicks also release moonlight waves; the third hit is stronger
+			While imbued, right click: heavy slash with a large moonlight wave; hold to auto-swing
+			Imbued: +30% damage and +8% critical strike chance
+			[c/9FCBFF:"The cold, dark moon"]
+			'''
+		MoonlightTime: Moonlight remaining: {0}s
+	}
+
+	SyzygyBow: {
+		DisplayName: Syzygy Bow
+		Tooltip: ""
+	}
+
+	GreatTitStaff: {
+		DisplayName: Great Tit Staff
+		Tooltip: ""
+	}
+
+	PutridCauldron: {
+		DisplayName: Putrid Cauldron
+		Tooltip: ""
+	}
+
+	WeaverSong: {
+		DisplayName: Weaver Song
+		Tooltip: ""
+	}
+
+	CMoon: {
+		DisplayName: C Moon
+		Tooltip: ""
+	}
+
+	Placeables.AuricSlimeBanner.DisplayName: Auric Slime Banner
+
+	SerpentHunter: {
+		DisplayName: Serpent Hunter
+		Tooltip:
+			'''
+			Left click to sweep; right click to thrust forward
+			While serpentine enemies are near, a blade wave clings to the spear and extends its reach
+			The blade wave deals 3x damage to serpentine enemies
+			"Hunt the serpent, not its shadow."
+			'''
+	}
+
+	ScissorBlade: {
+		DisplayName: Scissor Blade
+		Tooltip:
+			'''
+			Left click for a five-hit scissor combo; the first four hits throw rending needles, the fifth hurls the scissor
+			Release left click right after the throw to snap the blades shut
+			Right click to perform seppuku: spend 10% of your current life for invincibility frames and charges
+			Charges sharpen the scissor; at full charge, hold Up and right click to unleash the Big Rip
+			"Cut everything, including yourself."
+			'''
+		ChargeInfo: Charge: {0}/{1}
+	}
+}
+
+Buffs: {
+	BlazingDash: {
+		DisplayName: Blazing Dash
+		Description: Mods.Calamitytwinklefragment.Buffs.BlazingDash.Description
+	}
+
+	Cutting: {
+		DisplayName: Cutting
+		Description: Mods.Calamitytwinklefragment.Buffs.Cutting.Description
+	}
+
+	ShimuPetBuff: {
+		DisplayName: Shimu Pet Buff
+		Description: Mods.Calamitytwinklefragment.Buffs.ShimuPetBuff.Description
+	}
+
+	JingziPetBuff: {
+		DisplayName: Jingzi Pet Buff
+		Description: Mods.Calamitytwinklefragment.Buffs.JingziPetBuff.Description
+	}
+
+	LunaLockedDebuff: {
+		DisplayName: Luna Locked Debuff
+		Description: Mods.Calamitytwinklefragment.Buffs.LunaLockedDebuff.Description
+	}
+
+	YanMiaoPower: {
+		DisplayName: Yan Miao Power
+		Description: Mods.Calamitytwinklefragment.Buffs.YanMiaoPower.Description
+		HealDebug: "[Yan Miao] Lost {0:0.0} adrenaline, healed {1} HP ({2}/{3})"
+	}
+
+	EternalDecayDebuff: {
+		DisplayName: Eternal Decay Debuff
+		Description: Mods.Calamitytwinklefragment.Buffs.EternalDecayDebuff.Description
+	}
+
+	GreatTitBuff: {
+		DisplayName: Great Tit Buff
+		Description: Mods.Calamitytwinklefragment.Buffs.GreatTitBuff.Description
+	}
+
+	WeaverMinionBuff: {
+		DisplayName: Weaver Minion Buff
+		Description: Mods.Calamitytwinklefragment.Buffs.WeaverMinionBuff.Description
+	}
+}
+
+Projectiles: {
+	AbyssalCrushWave.DisplayName: Abyssal Crush Wave
+	DragonfireExplosion.DisplayName: Dragonfire Explosion
+	ShimuPetProjectile.DisplayName: Shimu Pet Projectile
+	JingziPetProjectile.DisplayName: Jingzi Pet Projectile
+	TerminalSoundWave.DisplayName: Terminal Sound Wave
+	TerminalSoundStar.DisplayName: Terminal Sound Star
+	DeepRedExplosion.DisplayName: Deep Red Explosion
+	DeepRedFragment.DisplayName: Deep Red Fragment
+	BombEarthDayProjectile.DisplayName: Bomb Earth Day Projectile
+	PinkFish.DisplayName: Pink Fish
+	StarWishBlackHole.DisplayName: Star Wish Black Hole
+	WishStar.DisplayName: Wish Star
+	EtherOrb.DisplayName: Ether Orb
+	ApocalypseRolling.DisplayName: Apocalypse Rolling
+	MoonShadowWeb.DisplayName: Moon Shadow Web
+	LunaDevouringProjectile.DisplayName: Luna Devouring Projectile
+	LunaSilkProj.DisplayName: Luna Silk Proj
+	SilverLunaPlate.DisplayName: Silver Luna Plate
+	GodnessArrowhed.DisplayName: Godness Arrowhed
+	PrayStar.DisplayName: Pray Star
+	ApocalypseFire.DisplayName: Apocalypse Fire
+	YanMiao.DisplayName: Yan Miao
+	AetherialDreamFeather.DisplayName: Aetherial Dream Feather
+	ShuoProjectile.DisplayName: Shuo Projectile
+	WangProjectile.DisplayName: Wang Projectile
+	MoonLightBeam.DisplayName: Moonlight Wave
+	MoonlightGreatswordHeld.DisplayName: Moonlight Greatsword - Raise
+	MoonlightGreatswordSwing.DisplayName: Moonlight Greatsword - Swing
+	SyzygyBowProjectile.DisplayName: Syzygy Bow Projectile
+	GreatTitMinion.DisplayName: Great Tit Minion
+	WeaverMinion.DisplayName: Weaver Minion
+	CMoonFlailProjectile.DisplayName: C Moon Flail Projectile
+	CMoonSwing.DisplayName: C Moon Swing
+	SerpentHunterStorm.DisplayName: Serpent Hunter Blade Wave
+	ScissorBladeSlash.DisplayName: Scissor Blade - Slash
+	ScissorBladeThrow.DisplayName: Scissor Blade - Throw
+	ScissorBladeNeedle.DisplayName: Scissor Blade - Rending Needle
+	ScissorBladeBolt.DisplayName: Scissor Blade - Homing Bolt
+	ScissorBladeRift.DisplayName: Scissor Blade - Big Rip
+	Summon.YanMiao.DisplayName: Yan Miao
+}
+
+Calamitytwinklefragment/Content/Items/Accessories/Mana/StarFlameStone: {
+	StarFlameStone: {
+		DisplayName: Star Flame Stone
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	AuricSlime.DisplayName: Auric Slime
+	AbyssPyreSlime.DisplayName: Abyss Pyre Slime
+	LunaGoddessLunatica.DisplayName: Luna Goddess Lunatica
+	LordOfPutrescence.DisplayName: Lord Of Putrescence
+	PutridFluid.DisplayName: Putrid Fluid
+}

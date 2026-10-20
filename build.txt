@@ -1,0 +1,5 @@
+displayName = 灾厄：吉光片羽
+author = 白海豹
+version = 0.1.2
+modReferences = CalamityMod
+loadAfter = CalamityMod
